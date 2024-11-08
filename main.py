@@ -2,9 +2,9 @@ import os
 from datetime import date, time, datetime
 import datetime
 
-total_day = 366 #total days back
-commit_frequency = 10 #commit time per day
-repo_link = "https://github.com/aliifam/github-activity-generator.git"
+total_day = 472 #total days back
+commit_frequency = 11 #commit time per day
+repo_link = "https://github.com/iamamansid/python-repo"
 
 tl = total_day #time day
 ctr = 1
